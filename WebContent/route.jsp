@@ -6,8 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
     <title>规划路线</title>
-<!--     <link rel="stylesheet" href="http://cache.amap.com/lbs/static/main1119.css"/>
- -->    <link rel="stylesheet" href="css/map-style.css"/>
+<link rel="stylesheet" href="http://cache.amap.com/lbs/static/main1119.css"/>
+<link rel="stylesheet" href="css/map-style.css"/>
 
     <script type="text/javascript" src="http://webapi.amap.com/maps?v=1.3&key=c7dd742fd48984414b8b02909d9eac60&plugin=AMap.Walking"></script>
     
